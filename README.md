@@ -26,4 +26,4 @@ L'application utilise un modèle relationnel pour stocker les utilisateurs, les 
 
 7) Diagramme de classe :
 
-  [ClassDiag.pdf](https://github.com/user-attachments/files/17355345/ClassDiag.pdf)
+  ![jwt](https://github.com/user-attachments/assets/a0d88ed3-1847-459b-b2c5-b10601bc9cc3)
